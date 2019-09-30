@@ -1,0 +1,11 @@
+C:\Users\new\Desktop\T05.-CalculoDeArea\bin\Debug\netcoreapp2.2\T05.-CalculoDeArea.deps.json
+C:\Users\new\Desktop\T05.-CalculoDeArea\bin\Debug\netcoreapp2.2\T05.-CalculoDeArea.runtimeconfig.json
+C:\Users\new\Desktop\T05.-CalculoDeArea\bin\Debug\netcoreapp2.2\T05.-CalculoDeArea.runtimeconfig.dev.json
+C:\Users\new\Desktop\T05.-CalculoDeArea\bin\Debug\netcoreapp2.2\T05.-CalculoDeArea.dll
+C:\Users\new\Desktop\T05.-CalculoDeArea\bin\Debug\netcoreapp2.2\T05.-CalculoDeArea.pdb
+C:\Users\new\Desktop\T05.-CalculoDeArea\obj\Debug\netcoreapp2.2\T05.-CalculoDeArea.csprojAssemblyReference.cache
+C:\Users\new\Desktop\T05.-CalculoDeArea\obj\Debug\netcoreapp2.2\T05.-CalculoDeArea.csproj.CoreCompileInputs.cache
+C:\Users\new\Desktop\T05.-CalculoDeArea\obj\Debug\netcoreapp2.2\T05.-CalculoDeArea.AssemblyInfoInputs.cache
+C:\Users\new\Desktop\T05.-CalculoDeArea\obj\Debug\netcoreapp2.2\T05.-CalculoDeArea.AssemblyInfo.cs
+C:\Users\new\Desktop\T05.-CalculoDeArea\obj\Debug\netcoreapp2.2\T05.-CalculoDeArea.dll
+C:\Users\new\Desktop\T05.-CalculoDeArea\obj\Debug\netcoreapp2.2\T05.-CalculoDeArea.pdb
